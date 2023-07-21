@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 550;
+}
+
+
+.bg-white {
+    background-color: #F8F8FB;
+}
+
+.bg-red {
+    background-color: #D57171 !important;
+}
+
+.bg-red-2 {
+    background-color: #FFD0D0 !important;
+}
+
+.text-red {
+    color: #D57171 !important;
+}
+
+.text-red-2 {
+    color: #FFD0D0 !important;
+}
+
+.text-grey {
+    color: #0B090A;
+}
+
+.nav-link .text-grey:hover {
+    color: #BA181B !important;
+}
+
+.text-blue {
+    color: #2B2E4A;
+}
+
+.sidebar-dark .nav-item .nav-link[data-toggle="collapse"]::after {
+    color: #BA181B !important;
+}
+
+img {
+    object-fit: cover;
+    user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.text-title1 {
+    font-weight: 600;
+    font-size: 18px;
+    margin: 0;
+}
+
+.text-body1 {
+    font-weight: 600;
+    font-size: 14px;
+    margin: 0;
+}
+
+.text-subtitle1 {
+    font-weight: 400;
+    font-size: 10px;
+    margin: 0;
+}
+
+.text-title2 {
+    font-weight: 600;
+    font-size: 16px;
+    margin: 0;
+}
+
+.text-body2 {
+    font-weight: 600;
+    font-size: 12px;
+    margin: 0;
+}
